@@ -1,0 +1,40 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter runtime files
+.jupyter/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+.conda_env/
+
+# Environment configuration backups
+*.egg-info/
+.eggs/
+
+# VS Code & IDE settings
+.vscode/
+.idea/
+
+# Data files (if they are large or generated locally)
+*.csv
+*.tsv
+*.log
+*.tmp
+*.h5
+*.hdf5
+*.sqlite
+*.db
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
